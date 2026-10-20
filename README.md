@@ -4,7 +4,7 @@ Optimising the product-to-team schedule of a CNC machine assembly line with **Si
 
 > Industrial Engineering Senior Design Project, MEF University, 2024
 > Industry partner: AES Group (CNC machine assembly factory, Bursa, Türkiye)
-> Team: Ali Ekrem Aksu, Ata Can Akar, Berna Sude Çimen, Melisa Elif Hasdemir, Öykü Günveren, **Zehra Ahmetoğlu**
+> Team of 6 students
 > Advisor: Dr. Utku Koç
 
 ---
